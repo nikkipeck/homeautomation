@@ -30,4 +30,4 @@ javax.json-1.1.jar and javax.json-api-1.0.jar for handling of json strings, obje
 taglibs-standard-impl-1.2.5.jar and taglibs-standard-spec-1.2.5.jar for jsp tags
 
 Acknowledgments 
-Hats off to davglass/doorbot, his javascript Ring API allowed me to get started with my own implementation
+Hats off to davglass/doorbot, the javascript Ring API allowed me to get started with my own implementation
